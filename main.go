@@ -1,7 +1,7 @@
 package main
 
-import ""
+// import ""
 
 func main() {
-	println("Hello, World!")
+	println("testing go mod tidy")
 }
